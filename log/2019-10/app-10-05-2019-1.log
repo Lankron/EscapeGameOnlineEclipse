@@ -1,0 +1,368 @@
+2019-10-03 02:15:45,798 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:15:47,854 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:15:47,854 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:15:47,854 INFO f.g.e.ChoisirMode [main] choix du mode défense
+2019-10-03 02:15:47,854 INFO f.g.e.ModeDefense [main] rentre dans la méthode d'envoie de la réponse du mode défense
+2019-10-03 02:15:47,855 DEBUG f.g.e.ModeDefense [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:15:47,855 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:15:47,855 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:15:51,686 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:15:51,686 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:15:51,686 DEBUG f.g.e.ModeDefense [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:15:51,687 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:15:51,687 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:16:08,845 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:16:08,845 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:16:08,846 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:16:08,846 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:16:08,846 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:16:22,678 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:16:22,678 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:16:22,678 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:16:22,678 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:16:22,678 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:16:41,837 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:16:41,838 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:16:41,838 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:16:41,838 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:16:41,838 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:16:54,981 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:16:54,982 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:16:54,982 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:16:54,982 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:16:54,982 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:17:03,461 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:17:03,461 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:17:03,461 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:17:03,461 INFO f.g.e.ModeDefense [main] fin du mode défense
+2019-10-03 02:17:03,462 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choixdumode
+2019-10-03 02:17:42,345 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:17:44,950 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:17:44,950 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:17:44,950 INFO f.g.e.ChoisirMode [main] choix du mode défense
+2019-10-03 02:17:44,951 INFO f.g.e.ModeDefense [main] rentre dans la méthode d'envoie de la réponse du mode défense
+2019-10-03 02:17:44,951 DEBUG f.g.e.ModeDefense [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:17:44,951 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:17:44,951 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:17:46,910 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:17:46,910 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:17:46,910 DEBUG f.g.e.ModeDefense [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:17:46,910 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:17:46,910 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:17:57,125 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:17:57,125 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:17:57,125 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:17:57,125 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:17:57,126 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:18:08,077 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:18:08,078 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:18:08,078 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:18:08,078 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:18:08,078 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:18:16,789 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:18:16,789 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:18:16,789 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:18:16,789 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:18:16,790 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:18:25,014 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:18:25,014 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:18:25,014 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:18:25,014 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:18:25,014 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:18:31,765 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:18:31,765 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:18:31,765 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:18:31,765 INFO f.g.e.ModeDefense [main] fin du mode défense
+2019-10-03 02:18:31,766 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choixdumode
+2019-10-03 02:18:43,269 INFO f.g.e.ChoisirMode [main] rentre dans le choix rejouer
+2019-10-03 02:18:43,270 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:18:43,270 INFO f.g.e.ChoisirMode [main] choix du mode défense
+2019-10-03 02:18:43,270 INFO f.g.e.ModeDefense [main] rentre dans la méthode d'envoie de la réponse du mode défense
+2019-10-03 02:18:43,270 DEBUG f.g.e.ModeDefense [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:18:43,270 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:18:43,270 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:18:53,469 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:18:53,469 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:18:53,469 DEBUG f.g.e.ModeDefense [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:18:53,469 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:18:53,469 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:19:06,605 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:19:06,605 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:19:06,605 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:19:06,606 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:19:06,606 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:19:20,893 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:19:20,894 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:19:20,894 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:19:20,894 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:19:20,894 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:19:28,253 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:19:28,253 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:19:28,253 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:19:28,253 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:19:28,253 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:19:34,686 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:19:34,686 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:19:34,686 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:19:34,686 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:19:34,686 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:19:39,021 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:19:39,021 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:19:39,022 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:19:39,022 INFO f.g.e.ModeDefense [main] fin du mode défense
+2019-10-03 02:19:39,022 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choixdumode
+2019-10-03 02:19:56,405 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:19:58,046 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:19:58,046 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:19:58,046 INFO f.g.e.ChoisirMode [main] choix du mode défense
+2019-10-03 02:19:58,046 INFO f.g.e.ModeDefense [main] rentre dans la méthode d'envoie de la réponse du mode défense
+2019-10-03 02:19:58,046 DEBUG f.g.e.ModeDefense [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:19:58,046 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:19:58,046 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:00,469 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:00,470 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:00,470 DEBUG f.g.e.ModeDefense [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:20:00,470 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:00,470 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:02,501 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:02,501 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:02,501 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:02,502 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:02,502 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:04,774 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:04,774 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:04,774 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:04,774 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:04,774 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:06,958 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:06,958 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:06,958 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:06,958 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:06,958 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:08,654 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:08,654 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:08,654 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:08,654 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:08,654 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:10,413 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:10,414 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:10,414 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:10,414 INFO f.g.e.ModeDefense [main] fin du mode défense
+2019-10-03 02:20:10,414 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choixdumode
+2019-10-03 02:20:21,141 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:20:31,409 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:20:32,790 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:20:32,790 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:20:32,791 INFO f.g.e.ChoisirMode [main] choix du mode défense
+2019-10-03 02:20:32,791 INFO f.g.e.ModeDefense [main] rentre dans la méthode d'envoie de la réponse du mode défense
+2019-10-03 02:20:32,791 DEBUG f.g.e.ModeDefense [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:20:32,791 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:32,792 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:37,013 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:37,014 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:37,014 DEBUG f.g.e.ModeDefense [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:20:37,014 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:37,014 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:39,950 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:39,950 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:39,950 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:39,950 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:39,950 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:41,534 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:41,534 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:41,534 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:41,534 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:41,534 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:43,198 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:43,198 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:43,198 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:43,198 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:43,198 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:44,750 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:44,750 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:44,750 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:44,750 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:44,750 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:46,261 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:46,262 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:46,262 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:46,262 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:46,262 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:48,045 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:48,046 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:48,046 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:48,046 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:48,046 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:50,205 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:50,205 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:50,206 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:50,206 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:50,206 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:51,885 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:51,885 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:51,885 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:51,886 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:51,886 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:53,477 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:53,477 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:53,477 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:53,478 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:53,478 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:55,165 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:55,165 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:55,165 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:55,165 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:55,165 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:56,798 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:56,798 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:56,798 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:56,798 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:56,798 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:20:58,534 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:20:58,534 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:20:58,534 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:20:58,534 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:20:58,534 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:00,438 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:00,438 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:00,438 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:00,438 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:00,438 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:02,238 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:02,238 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:02,238 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:02,238 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:02,238 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:04,629 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:04,630 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:04,630 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:04,630 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:04,630 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:06,397 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:06,398 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:06,398 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:06,398 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:06,398 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:08,597 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:08,597 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:08,597 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:08,597 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:08,597 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:10,437 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:10,437 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:10,437 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:10,437 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:10,437 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:12,285 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:12,285 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:12,285 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:12,285 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:12,285 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:14,254 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:14,254 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:14,254 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:14,254 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:14,254 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:16,518 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:16,518 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:16,518 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:16,518 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:16,518 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:18,157 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:18,158 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:21:18,158 INFO f.g.e.ModeDefense [main] reçois une nouvelle fois la méthode calcul du mode défense
+2019-10-03 02:21:18,158 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:21:18,158 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:44,322 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:21:46,221 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:21:46,222 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:21:46,222 INFO f.g.e.ChoisirMode [main] choix du mode duel
+2019-10-03 02:21:46,222 INFO f.g.e.ModeDuel [main] Rentre dans la méthode d'envoie de la réponse mode duel
+2019-10-03 02:21:46,222 INFO f.g.e.ModeDuel [main] Avant //l'affichage du code secret du mode attaque
+2019-10-03 02:21:46,222 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-03 02:21:46,222 INFO f.g.e.ModeDuel [main] Après //reçois l'affichage du code secret du mode attaque
+2019-10-03 02:21:46,222 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:21:55,046 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:21:55,046 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:21:55,046 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:21:55,046 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:22:16,756 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:22:18,150 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:22:18,150 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:22:18,150 INFO f.g.e.ChoisirMode [main] choix du mode duel
+2019-10-03 02:22:18,150 INFO f.g.e.ModeDuel [main] Rentre dans la méthode d'envoie de la réponse mode duel
+2019-10-03 02:22:18,150 INFO f.g.e.ModeDuel [main] Avant //l'affichage du code secret du mode attaque
+2019-10-03 02:22:18,150 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-03 02:22:18,151 INFO f.g.e.ModeDuel [main] Après //reçois l'affichage du code secret du mode attaque
+2019-10-03 02:22:18,151 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:22:26,978 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-03 02:22:28,222 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-03 02:22:28,222 INFO f.g.e.ChoisirMode [main] recu du nombre de choixdumode
+2019-10-03 02:22:28,223 INFO f.g.e.ChoisirMode [main] choix du mode duel
+2019-10-03 02:22:28,223 INFO f.g.e.ModeDuel [main] Rentre dans la méthode d'envoie de la réponse mode duel
+2019-10-03 02:22:28,223 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:22:39,805 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:22:39,806 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:22:39,806 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:22:39,806 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:22:50,157 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-03 02:22:50,158 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:22:50,158 INFO f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode attaque
+2019-10-03 02:22:50,158 INFO f.g.e.ModeDuel [main] reçois l'affichage du code du mode défense (random Ordinateur)
+2019-10-03 02:22:50,158 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code du mode défense (random ordinateur)
+2019-10-03 02:22:50,158 DEBUG f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:22:50,158 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:22:50,158 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:23:01,190 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:23:01,190 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:23:01,190 DEBUG f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:23:01,190 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:23:01,190 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:23:01,191 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:23:30,541 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-03 02:23:30,541 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:23:30,542 INFO f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode attaque
+2019-10-03 02:23:30,542 INFO f.g.e.ModeDuel [main] reçois l'affichage du code du mode défense (random Ordinateur)
+2019-10-03 02:23:30,542 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code du mode défense (random ordinateur)
+2019-10-03 02:23:30,542 DEBUG f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:23:30,542 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:23:30,542 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:23:44,101 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:23:44,102 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:23:44,102 DEBUG f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:23:44,102 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:23:44,102 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:23:44,102 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:24:14,262 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-03 02:24:14,262 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:24:14,262 INFO f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode attaque
+2019-10-03 02:24:14,262 INFO f.g.e.ModeDuel [main] reçois l'affichage du code du mode défense (random Ordinateur)
+2019-10-03 02:24:14,262 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code du mode défense (random ordinateur)
+2019-10-03 02:24:14,262 DEBUG f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:24:14,262 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:24:14,263 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:24:25,950 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:24:25,950 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:24:25,950 DEBUG f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:24:25,951 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:24:25,951 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:24:25,951 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:24:43,093 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-03 02:24:43,093 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:24:43,093 INFO f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode attaque
+2019-10-03 02:24:43,093 INFO f.g.e.ModeDuel [main] reçois l'affichage du code du mode défense (random Ordinateur)
+2019-10-03 02:24:43,094 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code du mode défense (random ordinateur)
+2019-10-03 02:24:43,094 DEBUG f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode défense
+2019-10-03 02:24:43,094 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode défense
+2019-10-03 02:24:43,094 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en String class player
+2019-10-03 02:24:50,326 INFO f.g.e.Player [main] sort de la méthode de récupération du code en String class player
+2019-10-03 02:24:50,326 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:24:50,326 DEBUG f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode défense
+2019-10-03 02:24:50,326 INFO f.g.e.ModeDuel [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-03 02:24:50,326 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-03 02:24:50,326 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-03 02:24:56,269 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-03 02:24:56,270 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-03 02:24:56,270 INFO f.g.e.ModeDuel [main] Après // reçois la méthode calcul du mode attaque
+2019-10-03 02:24:56,270 INFO f.g.e.ModeDuel [main] fin du mode duel
+2019-10-03 02:24:56,270 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choixdumode
