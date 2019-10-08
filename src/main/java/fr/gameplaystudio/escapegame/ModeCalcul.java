@@ -55,6 +55,7 @@ public class ModeCalcul {
 		
 		StringBuilder resultatString = new StringBuilder();// j'utilise stringbuilder pour afficher les integer
 		StringBuilder chiffreClientString = new StringBuilder();// j'utilise stringbuilder pour afficher les integer
+		
 		for(int i = 0; i< config.chiffreCombi();i++)// je fais une boucle pour éviter de me répéter
 		{
 
