@@ -10,18 +10,19 @@ import org.apache.log4j.Logger;
 
 public class ModeAttack {
 
-	Computer c = new Computer();// j'appel la class computer pour avoir toute les informations du computer
-	Player p = new Player();// j'appel la class player pour avoir toute les informations du player
-	Configuration config = new Configuration();// j'appel la class config la ou y'a tous mes fichiers de configuration
+	Computer c = new Computer();// j'appelle la classe computer pour avoir toute les informations du computer
+	Player p = new Player();// j'appelle la classe player pour avoir toutes les informations du player
+	Configuration config = new Configuration();// j'appelle la classe config là où il y a tous les fichiers de configuration
 	ModeCalcul mc = new ModeCalcul();
 	final static Logger logger = Logger.getLogger(ModeAttack.class);
  
 	//private Logger log = Logger.getLogger(ModeAttack.class); 
 	
 	
-	public void reponseModeAttack(){// ici c'est ma méthode pour calculer et envoyer la réponse du mode Attack
-		logger.info("rentre dans la méthode  d'envoie de la réponse du mode attaque");
+	public void reponseModeAttack(){// ici c'est la méthode pour calculer et envoyer la réponse du mode Attack
+		logger.info("rentre dans la méthode d'envoi de la réponse du mode attaque");
 		if(config.modeDeveloppeur() != false) {
+			System.out.println("");
 			System.out.println("Mode développeur activé (Combinaison secrète : " + mc.affichelecodeComputerModeAttack() + ")");
 		}
 		
@@ -29,18 +30,20 @@ public class ModeAttack {
 		
 		
 		int tour = 0;
-		
-		System.out.println("Bienvenu sur le jeu d'attaque,");
-		System.out.println("je pense a un chiffre et vous devez deviner quel est ce chiffre et je vous donnerez une réponse exemple\\\"+-=+\\\"");
-		System.out.println("si c'est + vous devez mettre un chiffre plus grand,");
+		System.out.println("");
+		System.out.println("Bienvenue sur le jeu d'attaque,");
+		System.out.println("Je pense à un chiffre et vous devez deviner quel est ce chiffre.");
+		System.out.println("Je vous donnerai une réponse exemple \"+-=+\" .");
+		System.out.println("Si c'est + vous devez mettre un chiffre plus grand,");
 		System.out.println("si c'est - vous devez mettre un chiffre plus petit,");
 		System.out.println("si c'est = le chiffre est bon.");
 		System.out.println("");
-		System.out.println("Vous pouvez commencer en me donnant " + config.chiffreCombi() +" chiffres aléatoire de 0 à 9 puis appuiyez sur entrer pour valider votre réponse.");
+		System.out.println("Vous pouvez commencer en me donnant " + config.chiffreCombi() +" chiffres aléatoires de 0 à 9 ");
+		System.out.println("puis appuyez sur entrer pour valider votre réponse.");
+	
 		
-		System.out.println("Veuillez taper une réponse");
-		for(int countorder = 0; countorder < config.essais(); countorder++) {// ici je fais ma boucle pour limité le nombre d'essais.
-			System.out.println("");
+		for(int countorder = 0; countorder < config.essais(); countorder++) {// ici je fais la boucle pour limiter le nombre d'essais.
+			
 			
 			
 			
@@ -49,21 +52,21 @@ public class ModeAttack {
 		logger.debug("Après // reçois la méthode calcul du mode attaque");
 		
 		// ici j'affiche le résultat.
-		System.out.println("Proposition : "+test.get(0)+" -> Reponse : " + test.get(1));
+		System.out.println("Proposition : "+test.get(0)+" -> Réponse : " + test.get(1));
 		
 		
-		StringBuilder egal = new StringBuilder();// j'utiliste stringbuilder pour comparer 2 résultats pour la condition juste en dessous
+		StringBuilder egal = new StringBuilder();// j'utilise stringbuilder pour comparer 2 résultats pour la condition juste en dessous
 		
 
 		for(int i = 0; i< config.chiffreCombi();i++)// je fais une boucle pour éviter de me répéter
 		{
 		   
-			egal.append("=");// j'ajoute "=" a mon stringbuilder 
+			egal.append("=");// j'ajoute "=" à mon stringbuilder 
 		    
 		}
 		
 	
-		// ici je fais une condition au cas ou l'utilisateur gagne.
+		// ici je fais une condition au cas où l'utilisateur gagne.
 	
 		if(egal.toString().equals(test.get(1))) {// je rajoute le toString pour qu'il transforme le stringbuilder en string
 				System.out.println("fin du jeu vous avez gagné");
@@ -75,15 +78,15 @@ public class ModeAttack {
 		
 		
 		
-		
+		System.out.println("");
 		System.out.println("Veuillez taper une nouvelle réponse");
 		tour++;
 		}
 		
 
-			// ici je fais une condition au cas ou l'utilisateur perd.
+			// ici je fais une condition au cas où l'utilisateur perd.
 			if(tour == config.essais()) {
-				
+				System.out.println("");
 				System.out.println("Vous avez perdu la réponse était : " + mc.affichelecodeComputerModeAttack());
 				
 			}
@@ -103,13 +106,13 @@ public class ModeAttack {
 	/*public String affichelecodeComputer(){
 	
 		
-		 StringBuilder chiffreOrdinateurEnstring = new StringBuilder();// j'utiliste stringbuilder pour afficher mes integer
+		 StringBuilder chiffreOrdinateurEnstring = new StringBuilder();// j'utilise stringbuilder pour afficher les integer
 		
 
-		for(int i = 0; i< config.chiffreCombi();i++)// je fais une boucle pour éviter de me répéter
+		for(int i = 0; i< config.chiffreCombi();i++)// je fais une boucle pour éviter de répéter
 		{
 		   
-			chiffreOrdinateurEnstring.append(chiffreOrdinateur.get(i));// j'ajoute le chiffre de l'ordinateur a mon stringbuilder
+			chiffreOrdinateurEnstring.append(chiffreOrdinateur.get(i));// j'ajoute le chiffre de l'ordinateur à mon stringbuilder
 		    
 		    
 		}

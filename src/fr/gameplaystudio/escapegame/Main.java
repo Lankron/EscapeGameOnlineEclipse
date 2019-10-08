@@ -21,13 +21,13 @@ public class Main {
 		
 		logger.info("lancement de l'application");
 		
-		Configuration.loadProperties(args[0]);// chargement des propriétés je passe un argument qui contient le chemin de ma configuration.properties 
+		Configuration.loadProperties(args[0]);// chargement des propriétés je passe un argument qui contient le chemin de la configuration.properties 
 		
 		logger.debug("Avant // l'appel de la méthode home");
-		home.home();// j'appelle ma méthode home pour afficher l'accueil
-		logger.debug("Après // la méthode home a été appelé");
+		home.home();// j'appelle la méthode home pour afficher l'accueil
+		logger.debug("Après // la méthode home a été appelée");
 		
-		//System.out.println(args[0]); 
+	
 		
 		
 		

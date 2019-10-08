@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="ressources"/>
 	<classpathentry kind="src" path="log"/>
 	<classpathentry kind="lib" path="C:/workspaceJava/EscapeGameOnline/src/fr/gameplaystudio/escapegame/lib/log4j-1.2-api-2.12.1.jar"/>
 	<classpathentry kind="lib" path="C:/workspaceJava/EscapeGameOnline/src/fr/gameplaystudio/escapegame/lib/log4j-api-2.12.1.jar"/>
