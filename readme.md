@@ -8,9 +8,6 @@
 #																#
 #################################################################################################################################
 
-Avant de commencer il faut savoir que vous avez besoin des fichiers config.properties et log4j2.xml au même endroit que votre fichier compilé !!!!
-ces fichiers se trouvent dans le projet.
-
 
 
 						************* Methode 1 (CMD) **************
@@ -65,6 +62,7 @@ Exemple : java -Dlog4j.configurationFile=file:C:/fichiercompile/log4j2.xml -jar 
 
 
 					************* Methode 2 (fichier Bat)**************
+
 
 1)Créer un fichier .txt à la racine du projet compilé là où se trouve le .jar || Exemple : C:/fichiercompile/
 

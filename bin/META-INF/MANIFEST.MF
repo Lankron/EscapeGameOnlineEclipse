@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: ./ log4j-1.2-api-2.12.1.jar log4j-api-2.12.1.jar log4
+ j-core-2.12.1.jar
+Main-Class: fr.gameplaystudio.escapegame.Main
+
+

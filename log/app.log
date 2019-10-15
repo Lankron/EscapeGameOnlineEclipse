@@ -1,14 +1,183 @@
-2019-10-08 21:22:03,701 INFO f.g.e.Main [main] lancement de l'application
-2019-10-08 21:22:03,804 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
-2019-10-08 21:22:03,804 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
-2019-10-08 21:22:08,617 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
-2019-10-08 21:22:08,617 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
-2019-10-08 21:22:08,618 INFO f.g.e.ChoisirMode [main] choix du mode attack
-2019-10-08 21:22:08,618 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
-2019-10-08 21:22:08,618 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
-2019-10-08 21:22:08,619 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
-2019-10-08 21:22:08,619 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
-2019-10-08 21:22:08,619 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
-2019-10-08 21:22:26,640 INFO f.g.e.Main [main] lancement de l'application
-2019-10-08 21:22:26,642 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
-2019-10-08 21:22:26,642 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 20:49:32,131 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 20:49:32,196 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 20:49:32,196 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 20:49:34,418 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 20:49:34,418 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 20:49:34,418 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 20:49:34,418 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 20:49:34,418 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 20:49:34,419 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 20:49:34,419 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 20:49:34,419 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:24:53,832 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 21:24:53,834 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 21:24:53,834 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 21:24:55,643 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 21:24:55,644 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:24:55,644 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:24:55,644 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:24:55,644 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:24:55,644 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:24:55,645 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:24:55,645 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:02,139 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:25:07,875 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:25:07,875 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:25:07,876 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:25:07,876 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:25:07,876 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:25:07,876 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:25:17,147 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:25:17,147 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:25:17,147 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:25:17,147 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:25:17,147 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:25:17,147 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:25:37,410 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:25:37,411 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:25:37,411 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:25:37,411 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:25:37,411 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:25:37,411 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:26:04,650 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:26:04,651 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:26:04,651 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:26:04,651 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:26:04,651 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:26:04,651 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:26:12,578 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:26:12,578 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:26:12,578 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:26:12,578 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:26:12,578 INFO f.g.e.ModeAttack [main] fin du mode attaque
+2019-10-15 21:26:12,579 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choix du mode
+2019-10-15 21:26:19,883 INFO f.g.e.ChoisirMode [main] rentre dans le choix rejouer
+2019-10-15 21:26:19,883 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:26:19,883 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:26:19,883 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:26:19,883 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:26:19,883 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:26:19,884 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:26:19,884 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:26:25,242 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:26:25,242 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:26:34,962 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:26:34,962 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:26:34,962 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:26:34,962 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:26:34,962 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:26:34,962 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:26:42,322 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 21:26:42,324 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 21:26:42,324 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 21:26:43,955 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 21:26:43,955 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:26:43,956 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:26:43,956 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:26:43,956 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:26:43,957 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:26:43,957 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:26:43,957 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:27:00,339 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:27:00,339 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:27:00,339 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:27:00,340 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:27:00,340 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:27:00,340 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:27:37,186 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:27:37,187 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:27:37,187 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:27:37,187 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:27:37,187 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:27:37,187 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:28:24,315 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 21:28:24,317 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 21:28:24,317 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 21:28:25,924 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 21:28:25,924 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:28:25,924 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:28:25,924 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:28:25,924 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:28:25,925 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:28:25,925 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:28:25,925 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:28:58,240 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 21:28:58,242 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 21:28:58,242 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 21:29:14,732 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 21:29:14,732 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:29:14,732 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:29:14,732 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:29:14,733 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:29:14,733 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:29:14,734 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:29:14,734 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:16,972 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,403 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,403 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,404 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,404 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,404 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:19,404 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,843 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,843 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,843 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,843 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,843 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:22,844 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:27,043 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:27,043 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:29:50,075 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:30:01,235 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:30:01,235 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:30:01,235 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:30:01,235 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:30:01,235 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:30:01,235 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:33:25,089 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 21:33:25,092 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 21:33:25,092 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 21:33:26,972 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 21:33:26,972 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 21:33:26,972 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 21:33:26,973 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 21:33:26,973 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 21:33:26,974 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:33:26,974 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:33:26,974 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:33:28,659 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:28,660 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:36,316 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:33:36,316 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:33:36,316 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:33:36,316 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:33:36,316 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:33:36,317 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:33:41,987 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:41,988 ERROR f.g.e.Player [main] nombre de char inssufisant
+2019-10-15 21:33:48,491 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:33:48,491 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:33:48,491 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:33:48,491 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 21:33:48,491 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 21:33:48,491 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
+2019-10-15 21:34:05,171 INFO f.g.e.Player [main] sort de la méthode de récupération du code en integer class player
+2019-10-15 21:34:05,171 INFO f.g.e.ModeCalcul [main] fin du calcul du mode défense
+2019-10-15 21:34:05,171 DEBUG f.g.e.ModeAttack [main] Après // reçois la méthode calcul du mode attaque
+2019-10-15 21:34:05,172 INFO f.g.e.ModeAttack [main] fin du mode attaque
+2019-10-15 21:34:05,172 INFO f.g.e.ChoisirMode [main] fin du mode on rerentre dans la méthode choix du mode

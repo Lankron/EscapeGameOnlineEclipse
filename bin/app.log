@@ -1,14 +1,11 @@
-2019-10-08 21:22:03,701 INFO f.g.e.Main [main] lancement de l'application
-2019-10-08 21:22:03,804 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
-2019-10-08 21:22:03,804 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
-2019-10-08 21:22:08,617 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
-2019-10-08 21:22:08,617 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
-2019-10-08 21:22:08,618 INFO f.g.e.ChoisirMode [main] choix du mode attack
-2019-10-08 21:22:08,618 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
-2019-10-08 21:22:08,618 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
-2019-10-08 21:22:08,619 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
-2019-10-08 21:22:08,619 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
-2019-10-08 21:22:08,619 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player
-2019-10-08 21:22:26,640 INFO f.g.e.Main [main] lancement de l'application
-2019-10-08 21:22:26,642 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
-2019-10-08 21:22:26,642 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 20:49:32,131 INFO f.g.e.Main [main] lancement de l'application
+2019-10-15 20:49:32,196 DEBUG f.g.e.Main [main] Avant // l'appel de la méthode home
+2019-10-15 20:49:32,196 INFO f.g.e.Main [main] Chargement de la page d'accueil et chargement de la classe ChoisirMode
+2019-10-15 20:49:34,418 INFO f.g.e.Main [main] envoie du nombre à la méthode choixdumode
+2019-10-15 20:49:34,418 INFO f.g.e.ChoisirMode [main] réception du nombre correspondant au choix du mode
+2019-10-15 20:49:34,418 INFO f.g.e.ChoisirMode [main] choix du mode attack
+2019-10-15 20:49:34,418 INFO f.g.e.ModeAttack [main] rentre dans la méthode d'envoi de la réponse du mode attaque
+2019-10-15 20:49:34,418 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de l'affichage du code secret du mode attaque
+2019-10-15 20:49:34,419 DEBUG f.g.e.ModeAttack [main] Avant // Appelle la méthode calcul du mode attaque
+2019-10-15 20:49:34,419 INFO f.g.e.ModeCalcul [main] rentre dans la méthode de calcul du mode attaque
+2019-10-15 20:49:34,419 INFO f.g.e.Player [main] rentre dans la méthode de récupération du code en integer class player

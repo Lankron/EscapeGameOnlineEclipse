@@ -33,7 +33,7 @@ public class Player {
 		        sc = new Scanner(System.in);
 		        nb = sc.nextLine();
 		        try {		 
-						Integer.parseInt(nb);// ici je teste si ma saisie est un nombre
+						Long.parseLong(nb);// ici je teste si ma saisie est un nombre
 						isNan = false;// ici je déclare que si c'est un nombre isNan passe en false donc la boucle s'arrête
 			        		
 			        
@@ -42,7 +42,7 @@ public class Player {
 		    	catch (NumberFormatException e){// ici j'ai une exception quand la saisie n'est pas un nombre
 					System.out.println("");
 		    		System.out.println("Vous n'avez pas tapé " + config.chiffreCombi() + " chiffres");// ici je déclare à l'utilisateur qu'il n'a pas écris un nombre
-					System.out.println("Veuillez réessayer en tapant " + config.chiffreCombi() + " chiffres");
+					System.out.println("Veuillez réessayer en tapant " + config.chiffreCombi() + " chiffres2");
 					
 				}
          }
@@ -83,7 +83,7 @@ public class Player {
         if(chiffre1.size() != config.chiffreCombi() && chiffreClient.size() != config.chiffreCombi()) {// si la taille de mon ArrayList est différent de mon chifre de combinaison je continue la boucle
         	System.out.println("");
         	System.out.println("Vous n'avez pas tapé " + config.chiffreCombi() + " chiffres");
-			System.out.println("Veuillez réessayer en tapant " + config.chiffreCombi() + " chiffres");
+			System.out.println("Veuillez réessayer en tapant " + config.chiffreCombi() + " chiffres3");
 		
 			chiffre1.clear();// j'efface tous les éléments de l'ArrayList chiffre1 pour avoir de nouveaux éléments
 			chiffreClient.clear();// j'éfface tous les éléments de l'arraylist chiffreClient pour avoir de nouveaux éléments
