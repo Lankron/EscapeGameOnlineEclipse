@@ -9,17 +9,19 @@
 #################################################################################################################################
 
 
-
 						************* Methode 1 (CMD) **************
 
 
 1)Lancer Cmd en mode Administrateur (si windows)
 
-2)Se mettre sur le chemin  où on veut déposer notre fichier compilé (grace à la commande "cd"). Exemple : "cd C:\fichiercompile"
+2)Se mettre sur le chemin  où on a notre package "fr" (grace à la commande "cd"). Exemple : "cd C:\workspaceJava\EscapeGameOnline\bin\"
 
-3)Taper la commande jar -cf nomdufichiercompilé.jar fichier du répertoire de classe puis rajouter *.class (pour prendre toutes les classes) 
-|| Exemple : " jar -cf test.jar C:\workspaceJava\EscapeGameOnline\bin\fr\gameplaystudio\escapegame/*.class
+3)Taper la commande jar -cfm chemin du dossier compilation nomdufichiercompilé.jar  fichier du répertoire du manifest  fichier du répertoire de classe puis rajouter *.class (pour prendre toutes les classes) 
+|| Exemple : " jar -cfm c:/fichiercompile/EscapeGameOnline.jar META-INF/MANIFEST.MF fr\gameplaystudio\escapegame/*.class
 
+4)Enfin vous devez mettre vos librairies log4j qui se trouvent dans le dossier lib sur github (log4j-1.2-api-2.12.1.jar log4j-api-2.12.1.jar log4j-core-2.12.1.jar) a la racine où se trouve le .jar compilé
+
+Exemple : c:/fichiercompile/
 
 
 						************* Methode 2 (Ide Eclipse) ***************
@@ -37,7 +39,7 @@
 #################################################################################################################################
 #																#
 #																#
-#						      Exécuter le fichier								#
+#						      Exécuter le fichier							#
 #																#
 #							( 2 méthodes )								#
 #																#
@@ -63,6 +65,12 @@ Exemple : java -Dlog4j.configurationFile=file:C:/fichiercompile/log4j2.xml -jar 
 
 					************* Methode 2 (fichier Bat)**************
 
+
+
+Le fichier .bat est déjà créé il se trouve dans le dossier script, il faut le placer dans le dossier où vous avez compilé votre fichier au côté du.jar.
+
+
+Voici comment j'ai procédé pour faire ce .bat :
 
 1)Créer un fichier .txt à la racine du projet compilé là où se trouve le .jar || Exemple : C:/fichiercompile/
 
